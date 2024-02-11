@@ -1,5 +1,5 @@
 ## Description of processing PCAP files to generate dataset
-For PCAP data, it is recommended to clean it first. Since the program processing logic is not smooth, we detail the data pre-processing for pre-training and fine-tuning as followed.
+For PCAP data, it is recommended to clean it first. Since the program processing logic is not smooth, we detail the data pre-processing for pre-training and fine_tuning as followed.
 
 ### Pre-training Stage
 *Main Program*: dataset_generation.py

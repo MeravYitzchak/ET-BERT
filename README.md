@@ -109,7 +109,7 @@ To reproduce the steps necessary to finetune ET-BERT on labeled data, run `pretr
 ```
 
 ### Fine-tuning on downstream tasks
-To see an example of how to use ET-BERT for the encrypted traffic classification tasks, go to the [Using ET-BERT](#using-et-bert) and `run_classifier.py` script in the `fine-tuning` folder.
+To see an example of how to use ET-BERT for the encrypted traffic classification tasks, go to the [Using ET-BERT](#using-et-bert) and `run_classifier.py` script in the `fine_tuning` folder.
 
 Note: you'll need to change the path in programes.
 <br/>
