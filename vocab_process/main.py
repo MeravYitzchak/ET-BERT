@@ -15,15 +15,18 @@ import random
 
 random.seed(40)
 
-pcap_dir = "I:\\dataset\\"
+#pcap_dir = "I:\\dataset\\"
+pcap_dir = "../datasets"
 tls_date = [20210301,20210808]
 pcap_name = "app_A.pcap"
 #pcap_name = "merge.pcap"
 
-word_dir = "I:/corpora/"
+#word_dir = "I:/corpora/"
+word_dir = "../corpora"
 word_name = "encrypted_tls13_burst.txt"
 
-vocab_dir = "I:/models/"
+#vocab_dir = "I:/models/"
+vocab_dir = "../models"
 vocab_name = "encryptd_vocab_all.txt"
 
 def pcap_preprocess():
